@@ -1,4 +1,3 @@
-Attribute VB_Name = "VBA_TG_Bot"
 Sub Tes()
     KirimPesanTelegram "OK"
 End Sub
